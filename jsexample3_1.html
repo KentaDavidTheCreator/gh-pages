@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Monthly Budject</title>
+	<style>
+	form { width: 400px; height: 400px; }
+	</style>
+</head>
+	
+
+<body>
+	<form action="" method="post"
+	id="budget">
+		<fieldset>
+			<p>Rent: <input type="text"
+			name="rent" id="rent"			   
+			placeholder="Rent" required	
+			/></p>
+
+			<p>Bills: <input type="text"
+			name="Bills" id="bills"			   
+			placeholder="Bills" required	
+			/></p>
+			
+			<p>Spending: <input type="text"
+			name="spending" id="spending"			   
+			placeholder="Spending" required	
+			/></p>
+			
+			<p><input type="submit" value="calculate"
+			id="submit"></p>
+			
+			<p>Total: <input type="text"
+			name="total" id="total"			   
+			placeholder="Monthly Budget" required	
+			/></p>
+			
+		</fieldset>
+	</form>
+	<script>
+		function calculate () {
+			'use strict';
+			var rent =
+			document.getElementById('rent').value;
+			
+			var bills =
+			document.getElementById('bills').value;
+			
+			var spending
+			document.getElementById('spending').value;
+			
+			var total = parseInt(rent) + parseInt(bills) + parseInt(spending);
+			
+			document.getElementById('total').value = total;
+			
+			return false;
+		}
+		
+		function init() {
+			'use strict';
+		document.getElementById('budget').onsubmit
+			= calculate;
+		}
+		
+	window.onload = init;	
+	</script>
+</body>
+</html>

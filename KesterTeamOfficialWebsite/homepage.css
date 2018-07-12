@@ -1,0 +1,920 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Artboard_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 1837px;
+  z-index: 107;
+}
+.header {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 1000px;
+	height: 248px;
+	z-index: 106;
+}
+.rectangle-1 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: #FFFF00;
+	position: fixed;
+	left: 188px;
+	top: 65px;
+	width: 95px;
+	height: 32px;
+	z-index: 74;
+}
+.rectangle-2 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgba(0,0,255,1.00);
+	position: fixed;
+	left: 287px;
+	top: 65px;
+	width: 81px;
+	height: 32px;
+	z-index: 75;
+}
+.rectangle-3 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 255);
+	position: fixed;
+	left: 373px;
+	top: 65px;
+	width: 93px;
+	height: 32px;
+	z-index: 76;
+}
+.rectangle-4 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgba(255,0,0,1.00);
+	position: fixed;
+	left: 471px;
+	top: 65px;
+	width: 90px;
+	height: 32px;
+	z-index: 77;
+}
+.rectangle-5 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgba(255,255,0,1.00);
+	position: fixed;
+	left: 566px;
+	top: 65px;
+	width: 77px;
+	height: 32px;
+	z-index: 78;
+}
+.rectangle-6 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgba(0,0,255,1.00);
+	position: fixed;
+	left: 824px;
+	top: 65px;
+	width: 97px;
+	height: 32px;
+	z-index: 79;
+}
+.rectangle-7 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 255);
+	position: fixed;
+	left: 648px;
+	top: 65px;
+	width: 171px;
+	height: 32px;
+	z-index: 103;
+	}
+.Games {
+  font-size: 24px;
+  font-family: "TeX Gyre Adventor";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 294.267px;
+  top: 115.1px;
+  z-index: 86;
+}
+.Shows {
+	font-size: 24px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	position: absolute;
+	left: 417.792px;
+	top: 115.1px;
+	z-index: 84;
+}
+.Manga {
+  font-size: 24px;
+  font-family: "TeX Gyre Adventor";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  position: absolute;
+  left: 661.077px;
+  top: 114.67px;
+  z-index: 83;
+}
+.Comics {
+  font-size: 24px;
+  font-family: "TeX Gyre Adventor";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  position: fixed;
+  left: 532.206px;
+  top: 114.6px;
+  z-index: 82;
+}
+.Video {
+	font-size: 24px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	position: fixed;
+	left: 646.081px;
+	top: 114.6px;
+	z-index: 81;
+}
+.Live_TV_Online {
+  font-size: 24px;
+  font-family: "TeX Gyre Adventor";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  position: fixed;
+  left: 905.062px;
+  top: 114.6px;
+  z-index: 104;
+}
+.KT_Shop {
+  font-size: 24px;
+  font-family: "TeX Gyre Adventor";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.2;
+  position: fixed;
+  left: 1097.077px;
+  top: 114.67px;
+  z-index: 80;
+}
+.seriesbar {
+	position: fixed;
+	left: 318px;
+	top: 114px;
+	width: 4128px;
+	height: 100px;
+	z-index: 199;
+}
+.Rectangle_1_copy_7 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 2914px;
+  top: 107px;
+  width: 190px;
+  height: 32px;
+  z-index: 198;
+}
+.Shape_1_copy {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 255);
+  position: absolute;
+  left: 3819px;
+  top: 194px;
+  width: 36px;
+  height: 72px;
+  z-index: 197;
+}
+.Shape_1 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  left: 2319px;
+  top: 193px;
+  width: 36px;
+  height: 72px;
+  z-index: 196;
+}
+.Rectangle_2_copy {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  left: 3807px;
+  top: 169px;
+  width: 58px;
+  height: 121px;
+  z-index: 195;
+}
+.Rectangle_31 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 2373px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 194;
+}
+.Rectangle_31_copy_10 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 3676px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 193;
+}
+.Rectangle_31_copy_9 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 3546px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 192;
+}
+.Rectangle_31_copy_8 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 3416px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 191;
+}
+.Rectangle_31_copy_7 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 3285px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 190;
+}
+.Rectangle_31_copy_6 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 3155px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 189;
+}
+.Rectangle_31_copy_5 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 3025px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 188;
+}
+.Rectangle_31_copy_4 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 2895px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 187;
+}
+.Rectangle_31_copy_3 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 2765px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 186;
+}
+.Rectangle_31_copy_2 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 2634px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 185;
+}
+.Rectangle_31_copy {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 2504px;
+  top: 170px;
+  width: 125px;
+  height: 119px;
+  z-index: 184;
+}
+
+}
+.Shape_1_copy {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 255);
+  position: absolute;
+  left: 1820px;
+  top: 194px;
+  width: 36px;
+  height: 72px;
+  z-index: 102;
+}
+.Shape_1 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  left: 299px;
+  top: 193px;
+  width: 36px;
+  height: 72px;
+  z-index: 101;
+}
+.Rectangle_2_copy {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 0, 0);
+	position: absolute;
+	left: 946px;
+	top: 114px;
+	width: 54px;
+	height: 113px;
+	z-index: 85;
+	bottom: 59px;
+}
+.leftclick {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(0, 0, 255);
+	position: absolute;
+	left: 250px;
+	top: 114px;
+	width: 54px;
+	height: 113px;
+	z-index: 85;
+	bottom: -15px;
+}
+
+.Rectangle_29 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  left: 1584px;
+  top: 1091px;
+  width: 322px;
+  height: 68px;
+  z-index: 72;
+}
+.copyrightinfo {
+	font-size: xx-large;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(0, 0, 0);
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1.2;
+	text-align: left;
+	-moz-transform: matrix( 0.29914215807298,0,0,0.29914215807298,0,0);
+	-webkit-transform: matrix( 0.29914215807298,0,0,0.29914215807298,0,0);
+	-ms-transform: matrix( 0.29914215807298,0,0,0.29914215807298,0,0);
+	position: absolute;
+	left: -574px;
+	top: 1480px;
+	z-index: 71;
+	right: 9px;
+	bottom: 0px;
+	width: 1657px;
+	height: 73px;
+}
+.Return_of_a_Legend {
+  font-size: 30px;
+  font-family: "TeX Gyre Adventor";
+  color: rgb(0, 0, 0);
+  font-style: italic;
+  line-height: 1.2;
+  position: absolute;
+  left: 26.537px;
+  top: 556.853px;
+  z-index: 70;
+}
+.Rectangle_25 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(255, 255, 0);
+  position: absolute;
+  left: 16px;
+  top: 543px;
+  width: 295px;
+  height: 52px;
+  z-index: 69;
+}
+.Rectangle_10 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	position: absolute;
+	left: 109px;
+	top: 539px;
+	width: 175px;
+	height: 162px;
+	z-index: 68;
+	background-image: url(Images/slimeherolcon.png);
+}
+.New_App__Coming_Soon_ {
+	font-size: 24px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	position: absolute;
+	left: -178.923px;
+	top: 554.67px;
+	z-index: 67;
+}
+.Rectangle_9 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(131, 208, 26);
+	position: absolute;
+	left: -354px;
+	top: 455px;
+	width: 458px;
+	height: 159px;
+	z-index: 65;
+}
+.updatebox5 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 255);
+	position: absolute;
+	left: 688px;
+	top: 332px;
+	width: 23px;
+	height: 22px;
+	z-index: 63;
+}
+.updatebox4 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 255);
+	position: absolute;
+	left: 92px;
+	top: -95px;
+	width: 23px;
+	height: 22px;
+	z-index: 62;
+}
+.updatebox3 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgba(255,0,4,1.00);
+	position: absolute;
+	left: 64px;
+	top: -95px;
+	width: 23px;
+	height: 22px;
+	z-index: 61;
+}
+.updatebox2 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: #0000FF;
+	position: absolute;
+	left: 36px;
+	top: -95px;
+	width: 23px;
+	height: 22px;
+	z-index: 60;
+}
+.updatebox1 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 0);
+	position: absolute;
+	left: 8px;
+	top: -95px;
+	width: 23px;
+	height: 22px;
+	z-index: 59;
+}
+.Read_it_on_Tapas___Webtoons {
+	font-size: 35px;
+	font-family: "TeX Gyre Adventor";
+	color: rgba(255,255,255,1.00);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	text-align: left;
+	-moz-transform: matrix( 0.89337641357027,0,0,0.88888888888889,0,0);
+	-webkit-transform: matrix( 0.89337641357027,0,0,0.88888888888889,0,0);
+	-ms-transform: matrix( 0.89337641357027,0,0,0.88888888888889,0,0);
+	position: absolute;
+	left: -80px;
+	top: 314px;
+	z-index: 58;
+	width: 548px;
+	height: 43px;
+}
+.Rectangle_7 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 0, 0);
+	position: absolute;
+	left: -59px;
+	top: 308px;
+	width: 506px;
+	height: 54px;
+	z-index: 57;
+}
+.New_Series_Debut_ {
+	font-size: 38px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	text-align: left;
+	position: absolute;
+	left: -120px;
+	top: 23px;
+	z-index: 56;
+	width: 445px;
+	height: 35px;
+}
+.Rectangle_30 {
+	border-width: 6px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(0, 0, 255);
+	position: absolute;
+	left: -129px;
+	top: 7px;
+	width: 361px;
+	height: 56px;
+	z-index: 55;
+}
+.Rectangle_5 {
+  border-width: 5px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(250, 98, 68);
+  position: absolute;
+  left: 369px;
+  top: 471px;
+  width: 698px;
+  height: 284px;
+  z-index: 53;
+}
+.whatsnew {
+	font-size: 38px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	text-align: left;
+	position: absolute;
+	left: 644px;
+	top: 408px;
+	z-index: 51;
+}
+.whatsnewrectangle {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 255);
+	position: absolute;
+	left: -316px;
+	top: -95px;
+	width: 318px;
+	height: 76px;
+	z-index: 50;
+}
+.Rectangle_3 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	position: absolute;
+	left: -317px;
+	top: -96px;
+	width: 830px;
+	height: 519px;
+	z-index: 48;
+}
+
+
+.Rectangle_1 {
+  border-width: 10px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(245, 191, 54);
+  position: fixed;
+  left: 16px;
+  top: 599px;
+  width: 275px;
+  height: 178px;
+  z-index: 47;
+}
+.about-us {
+	font-size: 21px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(0, 0, 0);
+	font-weight: normal;
+	font-style: normal;
+	line-height: 1.2;
+	text-align: center;
+	-moz-transform: matrix( 0.77165560904943,0,0,0.77165560904943,0,0);
+	-webkit-transform: matrix( 0.77165560904943,0,0,0.77165560904943,0,0);
+	-ms-transform: matrix( 0.77165560904943,0,0,0.77165560904943,0,0);
+	position: absolute;
+	left: 357px;
+	top: 1182px;
+	z-index: 46;
+	right: -117px;
+	bottom: -56px;
+	width: 984px;
+}
+
+.Layer_2 {
+	background-image: url("Layer 2.png");
+	opacity: 0.251;
+	position: absolute;
+	left: 220px;
+	top: 700px;
+	width: 69px;
+	height: 59px;
+	z-index: 44;
+}
+.Group_1 {
+  background-image: url("Group 1.png");
+  opacity: 0.459;
+  position: absolute;
+  left: -16px;
+  top: -9px;
+  width: 1938px;
+  height: 1091px;
+  z-index: 42;
+}
+
+._2ndinfobox {
+	position: absolute;
+	left: -591px;
+	top: -430px;
+	width: 204px;
+	height: 202px;
+	z-index: 181;
+}
+.Mondays_ {
+	font-size: 30px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	position: absolute;
+	left: -15.14px;
+	top: 779.853px;
+	z-index: 180;
+}
+.Smol_Bean___Big_Adventures_ {
+	font-size: 23px;
+	font-family: TeXGyreAdventor, "Century Gothic", AvantGardeMdITC, "Futura Std Light", "Futura Std Medium";
+	color: rgb(0, 0, 0);
+	font-style: normal;
+	font-weight: normal;
+	position: absolute;
+	left: -35px;
+	top: 531px;
+	z-index: 178;
+}
+.Rectangle_25 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 0);
+	position: absolute;
+	left: -49px;
+	top: 546px;
+	width: 305px;
+	height: 79px;
+	z-index: 177;
+}
+.Bepo {
+	background-image: url("Images/bepo.png");
+	position: absolute;
+	left: 0px;
+	top: 340px;
+	width: 193px;
+	height: 306px;
+	z-index: 176;
+	
+}
+
+.bepologo {
+	background-image: url("Images/bepologo.png");
+	position: absolute;
+	left: 18px;
+	top: 650px;
+	width: 194px;
+	height: 122px;
+	z-index: 180;
+}
+.BepoRectangle {
+	border: 1px solid rgb(0, 0, 0);
+	background-color: rgb(197, 60, 84);
+	position: absolute;
+	left: -47px;
+	top: 631px;
+	width: 295px;
+	height: 178px;
+	z-index: 175;
+	;
+}
+.Layer_2 {
+  background-image: url("Layer 2.png");
+  opacity: 0.251;
+  position: absolute;
+  left: 89px;
+  top: 488px;
+  width: 69px;
+  height: 59px;
+  z-index: 174;
+}
+
+.Group_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4128px;
+  height: 3216px;
+  z-index: 162;
+}
+.Dreamcasteslogo {
+	background-image: url(Images/dreamcasterslogo.png);
+	position: absolute;
+	left: -245px;
+	top: 80px;
+	width: 516px;
+	height: 228px;
+	z-index: 161;
+	background-repeat: no-repeat;
+}
+.Rectangle_5 {
+	background-image: url(Images/dreamcastersbox.png);
+	position: absolute;
+	left: -261px;
+	top: 69px;
+	width: 571px;
+	height: 233px;
+	z-index: 160;
+}
+.Anderson{
+	background-image: url(Images/anderson_chi.png);
+	position: absolute;
+	left: -198px;
+	top: -75px;
+	width: 1000px;
+	height: 504px;
+	z-index: 159;
+}
+.Social_Media {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 3000px;
+	height: 4000px;
+	z-index: 195;
+}
+.facebook {
+	background-image: url("Images/facebook2.png");
+	position: absolute;
+	left: 352px;
+	top: 498px;
+	width: 115px;
+	height: 118px;
+	z-index: 193;
+}
+
+.twitter {
+	background-image: url(Images/twitter2.png);
+	position: absolute;
+	left: 475px;
+	top: 499px;
+	width: 125px;
+	height: 109px;
+	z-index: 193;
+	background-repeat: no-repeat;
+}
+
+.Instagram {
+	background-image: url(Images/Instagram.png);
+	position: absolute;
+	left: 617px;
+	top: 488px;
+	width: 119px;
+	height: 119px;
+	z-index: 194;
+	background-repeat: no-repeat;
+}
+
+.Kester_Team_on_Social_Media_ {
+	font-size: 30px;
+	font-family: "TeX Gyre Adventor";
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	font-style: italic;
+	line-height: 1.2;
+	position: absolute;
+	left: 353.86px;
+	top: 448px;
+	z-index: 191;
+	width: 443px;
+}
+.Rectangle_29 {
+	border-width: 5px;
+	border-color: rgb(0, 0, 0);
+	border-style: solid;
+	background-color: rgb(255, 255, 0);
+	position: absolute;
+	left: 345px;
+	top: 445px;
+	width: 453px;
+	height: 34px;
+	z-index: 190;
+}
+
+
+body {
+	background-image: url(Images/bg.png);
+}
